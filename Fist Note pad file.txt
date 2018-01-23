@@ -1,0 +1,4 @@
+To check status of modifications or new file creation
+git status -s
+
+
