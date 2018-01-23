@@ -1,4 +1,15 @@
 To check status of modifications or new file creation
-git status -s
+-> git status -s
 
 
+To add
+-> git add .
+
+To commit 
+-> git commit -m "Any comments"
+
+To push to github site
+-> git push origin master
+
+To create new branch
+-> git checkout -b [branchname]
